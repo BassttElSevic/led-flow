@@ -48,3 +48,12 @@ make flash-jtag
 ## License
 
 MIT，见 [LICENSE](LICENSE)。
+
+## Choose Life
+
+<img width="500" height="500" alt="lilbasstt" src="https://github.com/user-attachments/assets/10102cf7-4195-4c7c-a7bd-72336bb96fa3" />
+
+<img width="991" height="197" alt="图片" src="https://github.com/user-attachments/assets/f8b9693e-9567-454f-a2bc-41a4840f08e3" />
+
+<img width="991" height="197" alt="图片" src="https://github.com/user-attachments/assets/d664f991-4564-4cd8-9e2b-3804edf62935" />
+
