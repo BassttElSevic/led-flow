@@ -53,7 +53,4 @@ MIT，见 [LICENSE](LICENSE)。
 
 <img width="500" height="500" alt="lilbasstt" src="https://github.com/user-attachments/assets/10102cf7-4195-4c7c-a7bd-72336bb96fa3" />
 
-<img width="991" height="197" alt="图片" src="https://github.com/user-attachments/assets/f8b9693e-9567-454f-a2bc-41a4840f08e3" />
-
-<img width="991" height="197" alt="图片" src="https://github.com/user-attachments/assets/d664f991-4564-4cd8-9e2b-3804edf62935" />
-
+<img width="1920" height="1920" alt="D75C00D76AE467D615249CAA7313645F" src="https://github.com/user-attachments/assets/402b6dc9-fed3-4f55-b26c-9eb80026630d" />
