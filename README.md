@@ -1,5 +1,8 @@
 # ZX-1 流水灯：Neovim + Makefile + Quartus
 
+> 其实这个东西是我个人的探索，quartus那个傻逼gui界面太丑了，，，不过好在，我的探索是成功的，这套流程是对的
+> 上传上去只做参考
+
 一个不用 Quartus 图形编辑器的 FPGA 小工程：在 Neovim 中编写 Verilog，用 Makefile 调用 Quartus 编译和 USB-Blaster 下载。当前示例是 **Cyclone IV E EP4CE10F17C8N / ZX-1** 上的三灯流水灯。
 
 > **仅作流程参考**：安装路径、Quartus 版本、器件型号、引脚、时钟频率、配置 Flash 和 USB-Blaster 名称都依赖个人电脑与开发板。移植时请核对板卡原理图和本机环境，修改 `Makefile`、`fpgatest.qsf` 与 `fpgatest.sdc`，不要直接照搬引脚或烧写参数。
